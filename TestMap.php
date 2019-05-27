@@ -9,5 +9,9 @@ class TestMap {
 public function test(){
   return false;
 }
+     
+    private function test(){
+      return true; 
+    }
 
 }
